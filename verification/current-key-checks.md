@@ -5,3 +5,4 @@ These entries record test commits made from the shared Nexa Mac with each contri
 | GitHub account | Commit email | Current key fingerprint |
 | --- | --- | --- |
 | R0obxdnt | grtdls525gino1@gmail.com | SHA256:MnwJwBQ/4sLbRETmo1C9d9APsmquZpAq4Luxc8PXHlA |
+| spinedo214 | sebastianpinedo214@gmail.com | SHA256:Pd1uUSXFENyAqBY8v5UgXXvXfnOP8xJV/8OKq8oKOQs |
